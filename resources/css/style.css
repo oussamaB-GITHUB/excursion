@@ -1,13 +1,42 @@
 body{
  background-color: black;
+} 
+header{
+  text-align: center;
 }
 header h1{
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
-a
-{
- color:aquamarine; font-size: 16px; }
+
+header a{
+ color: aquamarine;
+ font-size: 16px;
+}
+main{
+    text-align: center;
+}
+main h1{
+   font-family: verdana;
+   font-weight: 300;
+   font-size: 42px;
+   color: white;
+}
+main h2{
+   font-family: verdana;
+   font-size:21px;
+   color:gray;
+}
+main a{
+   color: aquamarine;
+   font-size: 16px;  
+}
+footer{
+   text-align: right;
+   color: gray;
+   font-family: verdana;
+   font-size:21px;
+}
+
